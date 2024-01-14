@@ -1,0 +1,206 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+.rrr {
+  border-radius: 24px;
+  border: 2px solid #fff;
+  width: 153px;
+  height: 48px;
+  color: #fff;
+  font-family: Livvic;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 28px; /* 155.556% */
+}
+.ul {
+  color: #fff;
+  font-family: Livvic;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 28px; /* 155.556% */
+  display: flex;
+  gap: 10px;
+  padding-right: 100px;
+}
+.kl {
+  display: flex;
+  gap: 30px;
+  padding: 10px;
+}
+.ota-dis {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.ota-header {
+  align-items: center;
+  padding: 20px;
+}
+.img1 {
+  padding-left: 100px;
+}
+.bir-text {
+  color: #fff;
+  font-family: Livvic;
+  font-size: 64px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 100px; /* 156.25% */
+}
+
+.ikki-text {
+  color: #fff;
+  font-family: Livvic;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 28px; /* 155.556% */
+  padding: 25px;
+}
+
+.textlar {
+  display: flex;
+
+  gap: 200px;
+  padding-left: 100px;
+  padding: 150px;
+}
+/* ikki section */
+
+.bir-texxt {
+  color: #fff;
+  text-align: center;
+  font-family: Livvic;
+  font-size: 48px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 48px; /* 100% */
+  
+}
+.box {
+  background: #012f34;
+  text-align: center;
+  width: 250px;
+  height: 191.28px;
+  align-items: center;
+  padding: 20px;
+}
+.box2 {
+  text-align: center;
+  width: 350px;
+  height: 274.726px;
+  align-items: center;
+  background: #012f34;
+}
+.box3 {
+  background: #012f34;
+}
+.disss {
+  display: flex;
+  gap: 50px;
+}
+.lll {
+  padding-left: 80px;
+  padding-right: 50px;
+}
+.otta {
+  margin: 50px;
+ margin-left:200px;
+  display: flex;
+  gap: 50px;
+}
+.didi {
+  color: #79c8c7;
+  text-align: center;
+  font-family: Livvic;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 28px; /* 155.556% */
+}
+.miss {
+  color: #fff;
+  text-align: center;
+  font-family: Livvic;
+  font-size: 15px;
+  font-style: italic;
+  font-weight: 500;
+  line-height: 25px; /* 166.667% */
+}
+.ota2{
+    padding: 90px;
+}
+
+
+
+
+
+/* uch section */
+
+.textt{
+  color: #FFF;
+text-align: center;
+font-family: Livvic;
+font-size: 48px;
+font-style: normal;
+font-weight: 700;
+line-height: 48px; /* 100% */
+}
+.imgs{
+  display: flex;
+  gap: 50px;
+  padding-left: 170px;
+}
+.ota3{
+  padding: 100px;
+}
+/* tortinchi section */
+
+.tekst{
+  color: #012F34;
+font-family: Livvic;
+font-size: 48px;
+font-style: normal;
+font-weight: 700;
+line-height: 48px; /* 100% */
+
+
+}
+
+.buttton{
+  color: #012F34;
+font-family: Livvic;
+font-size: 18px;
+font-style: normal;
+font-weight: 600;
+line-height: 28px; /* 155.556% */
+border-radius: 24px;
+border: 2px solid #012F34;
+width: 153px;
+height: 48px;
+}
+
+
+
+.ota4{
+  display: flex;
+  gap: 200px;
+  padding: 60px;
+}
+.gapp{
+  display: flex;
+  gap: 260px;
+  padding-left: 240px;
+}
+/* footer */
+
+.ota-foooter{
+  padding: 25px;
+  display: flex;
+  gap: 1000px;
+}
